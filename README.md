@@ -26,7 +26,7 @@ Interface the UART and one more devices using the STM32F4 ports
 7. Once sound is detected, a message 'Sound detected' will be displayed on the PuTTY terminal.
 
 ## Results
-Link for the video demo: [stm32basicinterfacing] (paste link)
+Link for the video demo: [stm32basicinterfacing] (https://youtu.be/90DmdmSMC6Y)
 
 ## References
 1. https://deepbluembedded.com/stm32-debugging-with-uart-serial-print/
